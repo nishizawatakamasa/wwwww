@@ -1,0 +1,15 @@
+[project]
+name = "wwwww"
+version = "0.1.0"
+description = "Web Wrapper Without Weight"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "patchright>=1.40",
+    "playwright>=1.40",
+    "selectolax>=0.3",
+    "pyarrow>=14.0",
+    "camoufox>=0.4",
+    "loguru>=0.7",
+    "tqdm>=4.66",
+]
